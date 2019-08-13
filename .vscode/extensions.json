@@ -1,0 +1,6 @@
+{
+	"recommendations": [
+    "auchenberg.vscode-browser-preview", // Cpp tools
+    "ms-azuretools.vscode-docker"
+		]
+}
